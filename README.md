@@ -1,17 +1,17 @@
-# Portfolio
-
-
 # Benjamin Binder: Data Analyst Portfolio 📊🔍
 
 ## Über mich 🙋‍♂️
 
-Hallo! Ich bin Benjamin Binder, geboren am 09.01.1985, und ein IHK-zertifizierter Data Analyst. In meinem Portfolio präsentiere ich eine Reihe von Projekten, die meine Fähigkeiten in der Datenauswertung und -analyse demonstrieren.
+Willkommen! Ich bin Benjamin Binder, geboren am 09.01.1985, und ein IHK-zertifizierter Data Analyst.
+Ausserdem ein großer DataAnalyst/Science/Engineer Enthusiast.
+
+In meinem Portfolio präsentiere ich eine Reihe von Projekten, die meine Fähigkeiten in der Datenauswertung und -analyse demonstrieren.
 
 ## Fähigkeiten und Technologien 💻
 
-- **Programmiersprachen:** Python, SQL
+- **Programmiersprachen:** Python, SQL, Basic, GCode
 - **Datenanalyse-Tools:** Excel, PowerBI, Knime
-- **Datenbanken:** MySQL, PostgreSQL
+- **Datenbanken:** MySQL, PostgreSQL, GitHub
 - **Big Data Technologien:** Hadoop, Spark
 - **Statistische Analyse:** Hypothesentests, Regression
 - **Maschinelles Lernen:** Klassifikation, Clustering
