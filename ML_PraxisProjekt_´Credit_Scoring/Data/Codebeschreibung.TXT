@@ -1,0 +1,35 @@
+
+Süddeutscher Kredit (UPDATE)
+Gespendet am 19.06.2020
+700 gute und 300 schlechte Credits mit 20 Prädiktorvariablen. Daten von 1973 bis 1975. Stratifizierte Stichprobe aus tatsächlichen Krediten, wobei schlechte Kredite stark überbewertet sind. Es kann eine Kostenmatrix verwendet werden.
+
+Datensatzmerkmale
+Multivariat
+
+Fachbereich
+Geschäft
+
+Zugehörige Aufgaben
+Klassifizierung, Regression, Clustering
+
+Feature-Typ
+Ganzzahl, Real
+
+# Instanzen
+1000
+
+# Merkmale
+21
+
+Datensatzinformationen
+Weitere Informationen
+
+Die weit verbreiteten deutschen Kreditdaten von Statlog ([https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)]), Stand November 2019, weisen schwerwiegende Fehler in den Kodierungsinformationen auf enthält keine Hintergrundinformationen. Die „South German Credit“-Daten bieten eine Korrektur und einige Hintergrundinformationen, basierend auf der Open Data LMU (2010)-Darstellung derselben Daten und mehreren anderen deutschsprachigen Ressourcen.
+
+Fehlende Werte?
+
+NEIN
+
+Variable Informationen
+## Dieser Abschnitt enthält eine kurze Beschreibung für jedes Attribut. ## Details zur Attributkodierung können dem beiliegenden R-Code zum Auslesen der Daten ## bzw. der beiliegenden Codetabelle, ## sowie Groemping (2019) entnommen werden (gelistet unter „Relevant Papers“). Spaltenname: laufkont Variablenname: Status Inhalt: Status des Girokontos des Schuldners bei der Bank (kategorisch) Spaltenname: laufzeit Variablenname: Dauer Inhalt: Kreditlaufzeit in Monaten (quantitativ) Spaltenname: moral Variablenname: credit_history Inhalt: Historie der Einhaltung früherer oder bestehender Kreditverträge (kategorisch) Spaltenname: verw Variablenname: Zweck Inhalt: Zweck, für den der Kredit benötigt wird (kategorisch) Spaltenname: höhe Variablenname: Betrag Inhalt: Kreditbetrag in DM (quantitativ; Ergebnis von monotone Transformation; tatsächliche Daten und Art der Transformation unbekannt) Spaltenname: sparkont Variablenname: Ersparnisse Inhalt: Ersparnisse des Schuldners (kategorisch) Spaltenname: beszeit Variablenname: Employment_Duration Inhalt: Beschäftigungsdauer des Schuldners beim aktuellen Arbeitgeber (ordinal; diskretisiert quantitativ) Spalte Name: rate Variablenname: installment_rate Inhalt: Kreditraten in Prozent des verfügbaren Einkommens des Schuldners (Ordinalzahl; diskretisiert quantitativ) Spaltenname: famges Variablenname: personal_status_sex Inhalt: kombinierte Informationen zu Geschlecht und Familienstand; kategorisch; Das Geschlecht kann aus der Variablen nicht wiederhergestellt werden, da männliche Singles und weibliche Nicht-Singles mit demselben Code codiert werden (2); Weibliche Witwen können nicht einfach klassifiziert werden, da die Codetabelle sie in keiner der weiblichen Kategorien auflistet. Spaltenname: buerge Variablenname: other_debtors Inhalt: Gibt es einen anderen Schuldner oder einen Bürgen für den Kredit? (kategorisch) Spaltenname: wohnzeit Variablenname: present_residence Inhalt: Zeitspanne (in Jahren), in der der Schuldner am aktuellen Wohnsitz lebt (ordinal; diskretisierte Quantität) Spaltenname: verm Variablenname: property Inhalt: das wertvollste Eigentum des Schuldners, d. h Es wird der höchstmögliche Code verwendet. Code 2 wird verwendet, wenn Code 3 oder 4 nicht anwendbar sind und ein Auto oder eine andere relevante Immobilie vorhanden ist, die nicht unter die Variable Sparkont fällt. (ordinal) Spaltenname: alter Variablenname: Alter Inhalt: Alter in Jahren (quantitativ) Spaltenname: weitkred Variablenname: other_installment_plans Inhalt: Ratenzahlungspläne von anderen Anbietern als der kreditgebenden Bank (kategorisch) Spaltenname: wohn Variablenname: Wohnraum Inhalt: Art der Wohnstätte, in der der Schuldner wohnt (kategorisch) Spaltenname: bishkred Variablenname: number_credits Inhalt: Anzahl der Kredite einschließlich des aktuellen, den der Schuldner bei dieser Bank hat (oder hatte) (ordinal, diskretisiert quantitativ); Entgegen der Aussage von Fahrmeir und Hamerle (1984) sind die ursprünglichen Datenwerte nicht verfügbar. Spaltenname: beruf Variablenname: Job Inhalt: Qualität des Arbeitsplatzes des Schuldners (ordinal) Spaltenname: pers Variablenname: people_liable Inhalt: Anzahl der Personen, die finanziell vom Schuldner abhängig sind (also Anspruch auf Unterhalt haben) (binär, diskretisiert quantitativ) Spaltenname: telef Variablenname: Telefoninhalt: Ist auf den Namen des Schuldners ein Festnetztelefon registriert? (binär; denken Sie daran, dass die Daten aus den 1970er Jahren stammen) Spaltenname: gastarb Variablenname: Foreign_worker Inhalt: Ist der Schuldner ein ausländischer Arbeitnehmer? (binär) Spaltenname: kredit Variablenname: credit_risk Inhalt: Wurde der Kreditvertrag eingehalten (gut) oder nicht (schlecht)? (binär)
+

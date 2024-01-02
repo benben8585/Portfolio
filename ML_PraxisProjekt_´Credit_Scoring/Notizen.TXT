@@ -1,0 +1,54 @@
+Kredit - credit_risk: Kreditrisiko
+und was sie beeinflusst
+
+
+ ('hoehe', 0.13622240426919213),
+ ('laufkont', 0.13485482630129172),
+ ('alter', 0.09887499335785366),
+ ('laufzeit', 0.08728782199360507),
+ ('moral', 0.06251768060382748),
+ ('verw', 0.06149867616617908),
+ ('beszeit', 0.05015017454326264),
+ ('rate', 0.04479090879129885),
+ ('sparkont', 0.044644845155019326),
+ ('verm', 0.041367210596830545),
+ ('wohnzeit', 0.03976288725390853),
+ ('beruf', 0.03596756444419338),
+ ('famges', 0.03371771699322621),
+ ('wohn', 0.025500270207374758),
+ ('bishkred', 0.02222994608664535),
+ ('weitkred', 0.02205200784662055),
+ ('telef', 0.020169335874245013),
+ ('buerge', 0.018855268580075083),
+ ('pers', 0.01586926480822898),
+ ('gastarb', 0.003666196127121708)
+
+Der Gesamtwert der Liste beträgt:   0.9478302179700226
+
+                      
+
+Die Liste der Werte:
+
+hoehe: 0.14      14% - amount: Kreditsumme in DM
+laufkont: 0.13   13% - status: Art des bestehenden Kontos
+alter: 0.10      10% - age: Alter in Jahren
+laufzeit: 0.09    9% - duration: Laufzeit des Kredits in Monaten
+moral: 0.06       6% - credit_history: Kreditgeschichte
+verw: 0.06        6% - purpose: Verwendungszweck des Kredits
+beszeit: 0.05     5% - employment_duration: Beschäftigungsdauer
+rate: 0.04        4% - installment_rate: Ratenhöhe
+sparkont: 0.04    4% - savings: Art des Sparkontos
+verm: 0.04        4% - property: Eigentum
+wohnzeit: 0.04    4% - present_residence: Wohnzeit an der aktuellen Adresse
+beruf: 0.04       4% - job: Beruf
+famges: 0.03      3% - personal_status_sex: Familienstand/Geschlecht
+wohn: 0.03        3% - housing: Wohnsituation
+bishkred: 0.02    2% - number_credits: Anzahl der Kredite
+weitkred: 0.02    2% - other_installment_plans: Andere Ratenzahlungspläne
+telef: 0.02       2% - telephone: Telefon vorhanden
+buerge: 0.02      2% - other_debtors: Andere Schuldner
+pers: 0.02        2% - people_liable: Anzahl der im Haushalt haftenden Personen
+gastarb: 0.00     0% - foreign_worker: Ausländischer Arbeiter
+
+
+Das Gesamtergebnis der Werte in der Liste beträgt gerundet 95% .

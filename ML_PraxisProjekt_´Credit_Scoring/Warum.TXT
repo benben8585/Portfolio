@@ -1,0 +1,13 @@
+Ensemble-Modelle, die aus der Kombination mehrerer Basis-Modelle wie
+ Random Forest (RF) und Gradient Boosting (GB) bestehen, werden oft eingesetzt, 
+um die Vorhersagegenauigkeit und Stabilität zu verbessern.
+
+Verbesserte Vorhersagegenauigkeit
+
+Reduzierung von Overfitting
+
+Robustheit gegenüber Ausreißern
+
+Kombination von Stärken verschiedener Modelle
+
+Verbesserung der Stabilität
