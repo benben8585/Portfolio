@@ -13,8 +13,8 @@ In meinem Portfolio präsentiere ich eine Reihe von Projekten, die meine Fähigk
 - **Datenanalyse-Tools:** Excel, PowerBI, Knime
 - **Datenbanken:** MySQL, PostgreSQL, GitHub
 - **Big Data Technologien:** Hadoop, Spark
-- **Statistische Analyse:** Hypothesentests, Regression
-- **Maschinelles Lernen:** Klassifikation, Clustering
+- **Statistische Analyse:** Test, Chi-Quadrat-Test, Varianzanalyse, Korrelationsanalyse, Regressionsanalyse, Clusteranalyse
+- **Maschinelles Lernen:** Q Learning, Lineare Regression, Logistische Regression, K-Nearest Neighbor(KNN), K-Means, DB Scan, Random Forest, Gradiant Boosted Trees
 
 ## Projekte 📁
 
