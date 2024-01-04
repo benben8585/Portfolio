@@ -32,12 +32,17 @@ In meinem Portfolio präsentiere ich eine Reihe von Projekten, die meine Fähigk
 - **Zusammenfassung:** Entwicklung eines Modells zur Vorhersage zukünftiger Verkaufszahlen.
 - **Technologien:** Python, Scikit-Learn, Zeitreihenanalyse
 
-  ### Projekt 4: spaceship_titanic 📈
+  ### Projekt 4: nuuEnergy-App 📈
+
+- **Zusammenfassung:** App zur Standortanalyse für Wärmepumpen & Fachpartnern in DE.
+- **Technologien:** Python, StreamLit, GeoPy, GoogleMaps API
+
+  ### Projekt 5: spaceship_titanic 📈
 
 - **Zusammenfassung:** Entwicklung mehrere Modelle zur Vorhersage von Tranported. !Kaggle Challange!
 - **Technologien:** Python, Scikit-Learn, Kaggle
 
-  ### Projekt 5: titanic 📈
+  ### Projekt 6: titanic 📈
 
 - **Zusammenfassung:** Entwicklung mehrere Modelle zur Vorhersage von Embarked. !Kaggle Challange!
 - **Technologien:** Python, Scikit-Learn, Kaggle
